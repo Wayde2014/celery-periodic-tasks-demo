@@ -1,0 +1,7 @@
+.git
+.lock
+*.pyc
+__pycache__
+celerybeat-schedule*
+log/*
+.python-version
